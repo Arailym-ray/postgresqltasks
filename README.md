@@ -1,1 +1,3 @@
 # postgresqltasks
+# postgresqltasks
+# teztamak-diplom
